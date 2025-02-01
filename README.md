@@ -1,4 +1,4 @@
- Advancing Arabic Sign Language Recognition: A Hybrid CNN + Transformer Approach
+# Advancing Arabic Sign Language Recognition: A Hybrid CNN + Transformer Approach
 
 In my latest project, I took Arabic Sign Language (ArSL) recognition a step further by integrating Transformers with CNNs, combining the power of spatial feature extraction and sequential pattern learning.
 
